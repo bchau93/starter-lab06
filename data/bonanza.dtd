@@ -34,7 +34,7 @@ Order placement data for Barker Bob's Burger Bar's Bigger, Better, Burger Bonanz
 <!ELEMENT topping (#PCDATA)>
 
 <!ATTLIST topping
-    type    (peanutbutter|lettuce|tomato|raw|dill|roasted|shrooms|salsa|bacon|chilies|fkchili|avocado|egg|porkbelly) #REQUIRED
+    type    (lettuce|tomato|raw|dill|roasted|shrooms|salsa|bacon|chilies|fkchili|avocado|egg|porkbelly) #REQUIRED
 >
 
 <!ELEMENT sauce EMPTY>
