@@ -21,7 +21,8 @@ and open the template in the editor.
     <burger>
         <patty type="beef"/>
         <cheeses top="american"/>
-        <topping type="peanutbutter"/>
+        <instructions>Add Peanut Butter!</instructions>
+        
     </burger>
     
 </order>
